@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">TikTak</string>
+    <string name="google_maps_api_key">AIzaSyBlvd6GNjN3lKXYgGqrO9pTCaRJSJZSIsw</string>
+
+    <string name="change_txt">Change</string>
+    <string name="close_txt">Cancel</string>
+    <string name="login">Login</string>
+    <string name="email">E-Mail</string>
+    <string name="password">Password</string>
+    <string name="notmember">Not a member?</string>
+    <string name="Register">Register</string>
+    <string name="blank_error">Please fill in the required fields!</string>
+    <string name="succes_login">Signed in. You are being redirected!</string>
+    <string name="change_pass">Change Password</string>
+    <string name="sortByCategory">Sort by Category</string>
+    <string name="sortByDate">Sort by Date</string>
+    <string name="home">Home</string>
+    <string name="donate">Donate</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="sortByMap">Sort by Map</string>
+
+    <string name="myItems">My Items</string>
+    <string name="morecoffee">More Coffee</string>
+
+
+    <string-array name="itemTypeValues">
+        <item>Shirts</item>
+        <item>Coats</item>
+        <item>Shoes</item>
+        <item>Pants</item>
+        <item>Bags</item>
+        <item>Other</item>
+    </string-array>
+    <string name="menu_shirts">Shirts</string>
+    <string name="menu_coats">Coats</string>
+    <string name="menu_shoes">Shoes</string>
+    <string name="menu_pants">Pants</string>
+    <string name="menu_bags">Bags</string>
+    <string name="menu_other">Other</string>
+
+    <string-array name="itemSizeValues">
+        <item>XXL</item>
+        <item>XL</item>
+        <item>L</item>
+        <item>M</item>
+        <item>S</item>
+        <item>XS</item>
+        <item>None</item>
+    </string-array>
+    <string-array name="itemConditionValues">
+        <item>New</item>
+        <item>As New</item>
+        <item>Used</item>
+        <item>Defective</item>
+    </string-array>
+
+    <string name="permission_title">Permission Required</string>
+    <string name="permission_details">In order for the app to  save the images on your phone and
+        access the images, you must give permission to read and write files.</string>
+    <string name="ok">OK</string>
+    <string name="contactoseller">Contact to Seller</string>
+    <string name="sellerprofile">Seller Profile</string>
+    <string name="editItem">Edit My Item</string>
+    <string name="contact_via_whatsapp">Contact via WhatsApp</string>
+    <string name="contact_via_mail">Contact via Mail</string>
+    <string name="oldest">Oldest</string>
+    <string name="newest">Newest</string>
+    <string name="clear_filter">Clear Filter</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm Sale</string>
+    <string name="confirm_dialog">Are you sure you want to confirm the sale of this item?</string>
+    <string name="confirm_again">If you confirm the sale, the item will be removed from your profile and this action cannot be undone.</string>
+    <string name="user_mail">User e-mail</string>
+    <string name="none">NULL Sale</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_price">Item Price</string>
+    <string name="item_color">Item Color</string>
+    <string name="close">Close</string>
+    <string name="item_location">Item Location</string>
+    <string name="item_size">Item Size</string>
+    <string name="item_type">Item Type</string>
+    <string name="item_condition">Item Condition</string>
+    <string name="go_to_seller_profile">Go to Seller Profile</string>
+    <string name="images">Images</string>
+    <string name="date">Date</string>
+    <string name="view_details">View Details</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="member_since">Member Since</string>
+    <string name="phone">Phone</string>
+    <string name="item_sold">Item Sold</string>
+    <string name="item_bought">Item Bought</string>
+    <string name="points">Points</string>
+    <string name="feel_free">Feel free to support us\n buy us some coffee.</string>
+    <string name="one_coffee">One Coffee\n$5</string>
+    <string name="two_coffee">Two Coffee\n$10</string>
+    <string name="three_coffee">Three Coffee\n$15</string>
+    <string name="four_coffee">Four Coffee\n$20</string>
+    <string name="already_have_an_account_log_in">Already have an account? Log in!</string>
+    <string name="i_have_read_and_i_accept_the_terms_of_use">I have read and I accept the terms of use.</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="clear_images">Clear Images</string>
+    <string name="save_item">Save Item</string>
+    <string name="register">Register</string>
+
+
+</resources>

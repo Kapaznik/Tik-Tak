@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<map xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="MapStyle">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:colorControlActivated">#F44336</item>
+        <item name="android:colorControlHighlight">#FF4081</item>
+        <item name="android:colorControlNormal">#2196F3</item>
+        <item name="android:colorPrimary">#2196F3</item>
+        <item name="android:colorPrimaryDark">#1976D2</item>
+        <item name="android:textColorPrimary">#212121</item>
+        <item name="android:textColorPrimaryInverse">#FFFFFF</item>
+        <item name="android:textColorSecondary">#727272</item>
+        <item name="android:textColorSecondaryInverse">#FFFFFF</item>
+    </style>
+    <style name="MapStyle.Dark">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:colorControlActivated">#FF4081</item>
+        <item name="android:colorControlHighlight">#F44336</item>
+        <item name="android:colorControlNormal">#2196F3</item>
+        <item name="android:colorPrimary">#2196F3</item>
+        <item name="android:colorPrimaryDark">#1976D2</item>
+        <item name="android:textColorPrimary">#FFFFFF</item>
+        <item name="android:textColorPrimaryInverse">#212121</item>
+        <item name="android:textColorSecondary">#BDBDBD</item>
+        <item name="android:textColorSecondaryInverse">#212121</item>
+    </style>
+</map>

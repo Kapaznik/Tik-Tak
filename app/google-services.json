@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "150352365589",
+    "firebase_url": "https://soldapp-bc3cf-default-rtdb.firebaseio.com",
+    "project_id": "soldapp-bc3cf",
+    "storage_bucket": "soldapp-bc3cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150352365589:android:7be96f1ec234d687d6e61c",
+        "android_client_info": {
+          "package_name": "com.android.TikTak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150352365589-ppcb8fd5q174f0ioblr280gkp7mtgc27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.TikTak",
+            "certificate_hash": "2ea50cd42b8f58a0b5ab7eb8af454e2ff480d494"
+          }
+        },
+        {
+          "client_id": "150352365589-7ul1oj5ribvvga2l2v9csjut6mac88d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgrg6cTiTkUGy3jwXyVGyYb2w4H06Ym5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150352365589-7ul1oj5ribvvga2l2v9csjut6mac88d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

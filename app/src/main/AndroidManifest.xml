@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher"
+        android:requestLegacyExternalStorage="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:targetApi="31">
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="com.android.TikTak.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+        <activity
+            android:name=".Activities.EditItemActivity"
+            android:theme="@style/AppThemeWithActionBar"
+            android:label="@string/editItem"
+            android:exported="false" />
+        <activity
+            android:name=".Activities.MyItemActivity"
+            android:exported="false"
+            android:label="@string/myItems"
+            android:theme="@style/AppThemeWithActionBar" />
+        <activity
+            android:name=".Activities.SellerProfile"
+            android:exported="false"
+            android:label="@string/sellerprofile"
+            android:theme="@style/AppThemeWithActionBar2" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_api_key" />
+
+        <activity
+            android:name=".Activities.AddNewItemActivity"
+            android:exported="false"
+            android:theme="@style/AppThemeWithActionBar" />
+        <activity
+            android:name=".Activities.MainActivity"
+            android:exported="true">
+
+        </activity>
+        <activity android:name=".FirebaseLogin.RegisterActivity" />
+        <activity android:name=".FirebaseLogin.LoginActivity" />
+        <activity
+            android:name=".FirebaseLogin.WelcomeActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
