@@ -43,15 +43,21 @@ https://github.com/Kapaznik/Tik-Tak/assets/87901270/03edd96f-e165-49fe-a894-7731
 ## Screenshots
 
 ![Main screen](https://github.com/Kapaznik/Tik-Tak/assets/87901270/2379a543-a7ce-48fb-a4c0-ed1869613f63)
+
 ![Login](https://github.com/Kapaznik/Tik-Tak/assets/87901270/71218179-6aba-4050-9454-20cbf6dd58b0)
+
 ![Terms](https://github.com/Kapaznik/Tik-Tak/assets/87901270/20b31b97-e665-4fbb-8d12-ba3dd736ab20)
 
 ![Profile](https://github.com/Kapaznik/Tik-Tak/assets/87901270/da689305-e7a8-439e-99eb-543578be176b)
+
 ![Products](https://github.com/Kapaznik/Tik-Tak/assets/87901270/4d96a7bc-97df-4b4b-8761-71db17faa2b4)
+
 ![Add or edit item](https://github.com/Kapaznik/Tik-Tak/assets/87901270/cbda7a6a-cc13-4e48-b26f-84c6c60e43dd)
 
 ![No items](https://github.com/Kapaznik/Tik-Tak/assets/87901270/00e8369e-cea5-4875-b9cc-6680debe1f59)
+
 ![Map](https://github.com/Kapaznik/Tik-Tak/assets/87901270/4d50c792-25e6-4c5d-98d6-4955c2aace0a)
+
 ![Donation](https://github.com/Kapaznik/Tik-Tak/assets/87901270/e7b6937d-e31b-4b46-8628-f0d0bfc16c4d)
 
 
