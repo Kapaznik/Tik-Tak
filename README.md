@@ -3,7 +3,10 @@ A second-hand application
 
 
 
-https://github.com/Kapaznik/Tik-Tak/assets/87901270/03edd96f-e165-49fe-a894-77313edad892
+
+
+https://github.com/Kapaznik/Tik-Tak/assets/87901270/b53b35b3-41a7-4db2-bc70-39b2bb790954
+
 
 
 
