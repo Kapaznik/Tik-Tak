@@ -21,6 +21,7 @@ https://github.com/Kapaznik/Tik-Tak/assets/87901270/b53b35b3-41a7-4db2-bc70-39b2
 
 ## General Information
 - Final project in Mobile applications course
+  - Grade: 100
 - Full application that works properly including user authentication and database
 
 
